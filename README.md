@@ -3,4 +3,4 @@
 ### Написати просту консольну програму
 #### Скріншоти завдання
 
-[Код](C:\Users\Yarik\OneDrive\Desktop\Screenshot_1.png)
+! [Код](https://github.com/Yarickkk/-1/blob/main/Screenshot_1.png)
